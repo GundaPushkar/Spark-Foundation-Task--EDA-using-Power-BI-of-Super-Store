@@ -1,3 +1,10 @@
 # Spark-Foundation-Task-EDA-using-Power-BI-of-Super-Store
 
-![sparkfoundation_superstore_report_page-0002](https://user-images.githubusercontent.com/129492950/232514437-d225d5cc-4f7e-4eb3-8fe1-bc9ca3ba7453.jpg)
+
+Frome The above data set we have analysed that
+
+1.The profit margin of furniture is too low the company needs to work on the profit by increasing the price or by reducing cost to increase the number of sales.
+
+2.The company should work on improving sales and profits in home office segment, which has lowest sales and profit margin.
+
+3.The tables subcategory has the lowest profit among all it is recommended for the company to improvise the marketing strategy by giving discounts or any others that would improvise the sales and profit of it or it could be discontinued if there is no sales and profit from it.
